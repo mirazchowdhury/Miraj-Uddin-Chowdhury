@@ -102,20 +102,20 @@ _BSc in Computer Science & Engineering_ (April 2020 - Dec 2024) | CGPA: 3.096
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazchowdhury&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect with me
 
 <div align="center">
-    <a href="https://linkedin.com/in/miraj-uddin-chowdhury" target="_blank">
+    <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-0476b8202/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <a href="https://github.com/mirazchowdhury" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:mirazchowdhury03@gmail.com" target="_blank">
