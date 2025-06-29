@@ -11,7 +11,7 @@
 <div align="center">
  🔭 I’m currently working on **LLM-powered AI agents and PDF data pipelines**<br/>
  🌱 I’m learning **LangChain, Groq & RAG methods**<br/>
- 💬 My portfolio link [here](https://lovely-clafoutis-287f37.netlify.app/)<br/>
+ 💬 My portfolio link [here](https://incomparable-lollipop-dcc712.netlify.app/)<br/>
  ⚡ Fun fact: **AI can help both machines and humans evolve.**
 </div>
 
