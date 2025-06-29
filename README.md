@@ -114,10 +114,10 @@ CGPA: 3.096 | (2020 – 2024)
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=mirazchowdhury&theme=default&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    <img width=390 src="https://github-readme-streak-stats.demolab.com?user=mirazchowdhury&theme=default&hide_border=true" alt="GitHub Streak" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazchowdhury&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazchowdhury&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
 </div>
 
 <br/><br/>
