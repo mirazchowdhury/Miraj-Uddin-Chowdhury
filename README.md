@@ -1,130 +1,127 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Miraj+Uddin+Chowdhury.;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast.;%F0%9F%94%A7+Quality+Assurance+Specialist.)](https://git.io/typing-svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mirazchowdhury.mirazchowdhury" />
 
-## 🚀 CSE Graduate | AI/ML Developer | QA Specialist
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=650&lines=Hi+There!+👋;+I'm+Miraj+Uddin+Chowdhury!;+AI/ML+Enthusiast+%7C+QA+Specialist" />
+</h1>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+<h3 align="center">A passionate AI/ML Developer and Quality Assurance Specialist from Bangladesh 🇧🇩</h3>
 
-- 🎓 **CSE Graduate** from International Islamic University Chittagong (CGPA: 3.096)
-- 🤖 **AI/ML Enthusiast** specializing in LLM-based applications, NLP, and recommendation systems
-- 🔍 **QA Professional** with expertise in manual testing, automation tools, and bug tracking
-- 🛠️ **Tech Stack**: Python, TensorFlow, PyTorch, LangChain, OpenAI APIs, Selenium, Postman
-- 🌱 **Currently exploring**: Advanced LLM applications and AI agent development
-- 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/miraj-uddin-chowdhury-0476b8202/) | **Email**: mirazchowdhury03@gmail.com
-- 📱 **Contact**: +8801704895635 | **Location**: Halishahar, Chattogram
-
-## 🔥 Featured Projects
-
-### AI & Machine Learning Projects
-
-1. **[Neuroscope AI](https://huggingface.co/spaces/Miraj74/Neuroscope)** - Customizable AI agent using Groq's compound-beta models with web search capabilities and domain-level control for accurate information retrieval.
-
-2. **[Movie Recommendation System](https://huggingface.co/spaces/Miraj74/CMRS)** - LLM-powered recommendation system using meta-llama/Llama-3.3-70B-Instruct-Turbo with Gradio interface for real-time movie suggestions.
-
-3. **[Data Extraction from PDF](https://github.com/mirazchowdhury/Data-extraction-from-pdf)** - Advanced PDF parsing pipeline that extracts Form ADT-1 fields into structured JSON and generates human-readable summaries using transformer models.
-
-4. **[Google Link Scraper](https://github.com/mirazchowdhury/NLP_Works/blob/main/Data%20Collection/Projects/links_script_all.py)** - Python-based web scraper with Streamlit interface for extracting and displaying Google search results from multiple pages.
-
-### Quality Assurance Projects
-
-1. **[Bug and Test Cases Report](https://docs.google.com/spreadsheets/d/1JEFZ7JYxYSLyI69fAvCUxlZydpjx9Iz6SJNVtBlttwo/edit?gid=2133122757#gid=2133122757)** - Comprehensive UI bug documentation and test case creation demonstrating systematic QA methodologies.
-
-### Academic Thesis
-
-1. **[RFID Based Campus-Wide Payment System](https://drive.google.com/file/d/1ohxHTPZprDW1m4CxrTgBPNx0G4zy4uOV/view)** - IoT-enabled cashless payment solution using RFID cards, Raspberry Pi backend, and web interface for university services.
-
-## 💻 Skills & Technologies
-
-### Programming Languages
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c,html,css" />
-    </a>
-</p>
-
-### AI/ML & Data Science
-
-<p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"/>
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch"/>
-    <img width="48" height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface"/>
-    <img width="48" height="48" src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain"/>
-</p>
-
-### QA & Testing Tools
-
-<p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium"/>
-    <img width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira"/>
-</p>
-
-### Development Tools
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,latex,vscode"/>
-    </a>
-</p>
-
-### Productivity & Collaboration
-
-<p align="left">
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="google-suite"/>
-    <img width="48" height="48" src="https://www.notion.so/images/logo-ios.png" alt="notion"/>
-    <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello"/>
-</p>
-
-## 🎓 Education & Certifications
-
-**🏫 International Islamic University Chittagong**  
-_BSc in Computer Science & Engineering_ (April 2020 - Dec 2024) | CGPA: 3.096
-
-**📜 Recent Certifications:**
-
-- **Quality Assurance and Software Testing** - EDGE Project (Sep-Dec 2024)
-- **Job Readiness Training** - Career Hub powered by BRAC (Jul-Aug 2024)
-- **Data Science Certification Programme** - Ostad (Mar-Aug 2024)
-
-## 🤝 Experience & Volunteering
-
-**🎯 Campus Ambassador** - Farhana's Brainstation (Mar 2024 - Dec 2024)
-
-- Led student engagement initiatives and promotional activities
-- Organized events and managed lead generation
-- Enhanced public speaking and communication skills
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+ 
+ 🔭 I’m currently working on **LLM-powered AI agents and PDF data pipelines**
+
+🌱 I’m currently learning **AI agent frameworks, LangChain, Groq & Retrieval-Augmented Generation**
+
+💬 Ask me about **QA testing, LLMs, Transformers, NLP, or anything [here](https://github.com/mirazchowdhury/mirazchowdhury/issues)**
+
+⚡ Fun fact: **I use AI to improve both machines and people.**
+
 </div>
+
+<br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazchowdhury&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="mailto:mirazchowdhury03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-0476b8202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mirazchowdhury" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-## 🌐 Connect with me
+<br/>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-0476b8202/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://github.com/mirazchowdhury" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:mirazchowdhury03@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-    </a>
+  <img src="https://img.shields.io/badge/Hacktoberfest-FF4500?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white" />
 </div>
 
----
+<hr/>
 
+<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
+<br/>
 <div align="center">
-    <i>💡 "Transforming ideas into intelligent solutions through AI and ensuring quality through systematic testing."</i>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c,html,css,git,github,vscode,latex" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira" />
 </div>
+
+<br/>
+
+<h3 align="center">🧠 AI/ML & QA Tools</h3>
+<div align="center">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="100"/>
+</div>
+
+<hr/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+### 🎓 AI & Machine Learning
+
+- 🔍 [**Neuroscope AI**](https://huggingface.co/spaces/Miraj74/Neuroscope) – LLM-powered AI Agent using Groq & web search.
+- 🎥 [**Movie Recommendation System**](https://huggingface.co/spaces/Miraj74/CMRS) – Llama-3 turbo + Gradio for movie recs.
+- 📄 [**PDF Data Extractor**](https://github.com/mirazchowdhury/Data-extraction-from-pdf) – Transformer-powered pipeline for extracting and summarizing ADT-1 forms.
+- 🌐 [**Google Link Scraper**](https://github.com/mirazchowdhury/NLP_Works/blob/main/Data%20Collection/Projects/links_script_all.py) – Multi-page scraper with Streamlit UI.
+
+### 🧪 QA Projects
+
+- 🐞 [**Bug & Test Case Reports**](https://docs.google.com/spreadsheets/d/1JEFZ7JYxYSLyI69fAvCUxlZydpjx9Iz6SJNVtBlttwo/edit?gid=2133122757#gid=2133122757) – Systematic documentation of UI bugs and test cases.
+
+### 📚 Academic Research
+
+- 💳 [**RFID-Based Payment System**](https://drive.google.com/file/d/1ohxHTPZprDW1m4CxrTgBPNx0G4zy4uOV/view) – Campus-wide RFID + IoT-based payment infrastructure using Raspberry Pi.
+
+<hr/>
+
+<h2 align="center">🎓 Education & Certifications</h2>
+
+📘 **BSc in CSE** – International Islamic University Chittagong  
+CGPA: 3.096 | (2020 – 2024)
+
+📜 **Certifications**
+
+- QA & Software Testing – EDGE Project
+- Data Science Certification – Ostad
+- Job Readiness Training – BRAC Career Hub
+
+<hr/>
+
+<h2 align="center">🤝 Volunteering & Leadership</h2>
+
+👨‍💼 **Campus Ambassador** – Farhana’s Brainstation (Mar–Dec 2024)
+
+> Led outreach campaigns, managed student communities, and organized tech events.
+
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=mirazchowdhury&theme=default&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazchowdhury&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center"><i>“Transforming ideas into intelligent solutions through AI, and ensuring quality through systematic testing.”</i></h3>
