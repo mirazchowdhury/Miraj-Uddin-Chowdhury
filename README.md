@@ -11,7 +11,7 @@
 <div align="center">
  🔭 I’m currently working on **LLM-powered AI agents and PDF data pipelines**<br/>
  🌱 I’m learning **LangChain, Groq & RAG methods**<br/>
- 💬 Ask me anything [here](https://github.com/mirazchowdhury/mirazchowdhury/issues)<br/>
+ 💬 Ask me anything [here](https://github.com/mirazchowdhury)<br/>
  ⚡ Fun fact: **AI can help both machines and humans evolve.**
 </div>
 
@@ -81,7 +81,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=mirazchowdhury&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="430"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" width="430"/>
 </p>
 <p align="center">
